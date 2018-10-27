@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+#main{
+    background-color: darkgrey;
+}
+#tribute-info{
+    max-width: 800px;
+    margin: auto;
+    font-size: large;
+}
